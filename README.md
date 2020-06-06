@@ -1,5 +1,5 @@
 # 🇭🇺 Nem hivatalos magyar domain lista
-## A domain.hu -n nyilvánosan meghirdetett domainek gyűjteménye, a regisztrálás ideje szerint rendezve és évenként csoportosítva
+## A domain.hu-n nyilvánosan meghirdetett domainek gyűjteménye, a regisztrálás ideje szerint rendezve és évenként csoportosítva
 
 ### Források:
 **2002 dec - 2019 máj**: Wayback Machine (emiatt nem teljes, idő/abc szerint rendezett listákból, angol nyelven is)
