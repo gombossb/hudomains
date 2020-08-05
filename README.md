@@ -16,4 +16,4 @@
 **2019 may -**: Own collection
 
 
-Utoljára frissítve / Last updated on: **2020-06-05**
+Utoljára frissítve / Last updated on: **2020-08-05**
