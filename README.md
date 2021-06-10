@@ -14,6 +14,3 @@
 **2002 dec - 2019 may**: [Wayback Machine](https://web.archive.org/web/*/http://www.domain.hu/domain/meghirdetes.html) (therefore incomplete, from lists ordered by time/alphabet, English versions too)
 
 **2019 may -**: Own collection
-
-
-Utoljára frissítve / Last updated on: **2020-08-05**
